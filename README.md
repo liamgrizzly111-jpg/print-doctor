@@ -1,2 +1,23 @@
-# print-doctor
-print doctor will help you fix your printer it will read your printer and you click an issue you can give it an error code if the printer says the error code and you can do a test print but there are some printer company's that lock your f@#king ink cartridges like hp if you have a subscription is not possible so ask google or buy some non subscription ink cardriges to bypass the subscription but make sure is the same type of ink cardrige type
+🖨️ Print‑Doctor
+Print‑Doctor is a Windows‑based tool designed to help you diagnose and fix common printer problems.
+It can:
+
+Detect your installed printers
+
+Let you select symptoms your printer is showing
+
+Accept error codes directly from the printer
+
+Provide likely causes, fixes, and safe workarounds
+
+Send a real Windows Test Print to verify the printer is working
+
+Some printer manufacturers (especially subscription‑based models) may restrict printing when using incompatible or subscription‑locked ink cartridges. If your printer refuses to print due to cartridge restrictions, you may need to:
+
+Use the correct cartridge type for your model
+
+Replace subscription‑locked cartridges with standard ones
+
+Check the manufacturer’s documentation for cartridge compatibility
+
+Print‑Doctor cannot bypass manufacturer‑imposed ink restrictions, but it can help you identify when cartridge lockouts are the cause of printing failures.
